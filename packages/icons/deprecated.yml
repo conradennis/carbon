@@ -3,6 +3,7 @@ deprecated:
     reason: The app switcher icon has been replaced by switcher
   - name: back-to-top
     reason: The back-to-top icon has been replaced by up-to-top
+  - name: cloud-app
   - name: cloud--lightning
   - name: cloud--rain
   - name: cloud--snow

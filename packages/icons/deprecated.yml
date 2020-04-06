@@ -1,6 +1,8 @@
 deprecated:
   - name: app-switcher
     reason: The app switcher icon has been replaced by switcher
+  - name: arrows
+    reason: This is a duplicate of arrows--vertical
   - name: back-to-top
     reason: The back-to-top icon has been replaced by up-to-top
   - name: cloud--lightning
